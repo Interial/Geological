@@ -1,0 +1,9 @@
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\bin\Debug\Geological.exe.config
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\bin\Debug\Geological.exe
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\bin\Debug\Geological.pdb
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.csprojResolveAssemblyReference.cache
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.Form1.resources
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.Properties.Resources.resources
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.csproj.GenerateResource.Cache
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.exe
+c:\users\interio\documents\visual studio 2017\Projects\Geological\Geological\obj\Debug\Geological.pdb
